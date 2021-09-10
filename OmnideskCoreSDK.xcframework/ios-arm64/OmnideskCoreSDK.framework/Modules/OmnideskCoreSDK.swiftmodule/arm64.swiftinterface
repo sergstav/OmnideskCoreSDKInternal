@@ -1,0 +1,22 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name OmnideskCoreSDK
+import Foundation
+import Swift
+public enum Identity {
+  case anonymus
+  case jwt(Swift.String?, Swift.String?, Swift.Int?, Swift.String?, Swift.String?, Swift.String?, Swift.String?)
+  public static func createJwt(email: Swift.String? = nil, name: Swift.String? = nil, external_id: Swift.Int? = nil, company_name: Swift.String? = nil, company_position: Swift.String? = nil, remote_photo_url: Swift.String? = nil, exp: Swift.String? = nil) -> OmnideskCoreSDK.Identity
+  public static func createAnonymous() -> OmnideskCoreSDK.Identity
+}
+@objc @_inheritsConvenienceInitializers final public class Omnidesk : ObjectiveC.NSObject {
+  public static let shared: OmnideskCoreSDK.Omnidesk
+  final public var identity: OmnideskCoreSDK.Identity
+  final public var omnideskUrl: Swift.String
+  final public var clientId: Swift.Int
+  final public var sdkKey: Swift.String
+  final public func setIdentity(_ newIdentity: OmnideskCoreSDK.Identity)
+  final public class func initialize(clientId: Swift.Int, omnideskURL: Swift.String, sdkKey: Swift.String)
+  @objc override dynamic public init()
+  @objc deinit
+}
