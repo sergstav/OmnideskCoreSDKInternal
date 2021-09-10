@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OmnideskCoreSDK-Swift.h</key>
 		<data>
-		MiK4TpW399rUljpwxreo2Vt+3No=
+		mQbFfiBF1KgOjhFm7dkipuUsWDc=
 		</data>
 		<key>Headers/OmnideskSDK.h</key>
 		<data>
@@ -14,55 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ddNVB8xzfiSnCeFGdBQuQtCJ3M8=
+		5r0WVKY9Ctu1E2N31oR5V0wmeMM=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		k1NLu1Vl10bb2LLn5iAI583mLjs=
+		sI0TEOTH2pXUwi2kszBd2zUjanY=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+PYB9pYrVEeCuG3UmJvUXlhL1Dw=
+		veORW+K+ZvGJUsrvG1KS/J7ixu4=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YAiX/gG8tYwM0mQZKzjw4zDC60w=
+		h0hysJ1aqQiwlQbDUPQSPLC3eKo=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		k1NLu1Vl10bb2LLn5iAI583mLjs=
+		sI0TEOTH2pXUwi2kszBd2zUjanY=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		+PYB9pYrVEeCuG3UmJvUXlhL1Dw=
+		veORW+K+ZvGJUsrvG1KS/J7ixu4=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		YAiX/gG8tYwM0mQZKzjw4zDC60w=
+		h0hysJ1aqQiwlQbDUPQSPLC3eKo=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fhMXZUAO1z6/vv7fXmkCHiG+Rog=
+		vTzHxR5VxDoFEOfP1ZZSxKdyC6A=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+Xrt10kkXLajfTkYdY3dsClwDyg=
+		ytZfyzafcWkRyzbmuEuEBP12aU4=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xP7QA6TtmlIZlUS8dC/ciNizZ48=
+		Stze5QJCgH6dJriavU06U0PLz1I=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		fhMXZUAO1z6/vv7fXmkCHiG+Rog=
+		vTzHxR5VxDoFEOfP1ZZSxKdyC6A=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		+Xrt10kkXLajfTkYdY3dsClwDyg=
+		ytZfyzafcWkRyzbmuEuEBP12aU4=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		xP7QA6TtmlIZlUS8dC/ciNizZ48=
+		Stze5QJCgH6dJriavU06U0PLz1I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TNSN6xzDHIYZhZzv+pioCLO2NexXa4RaTo0FDkvt6DM=
+			Db/1NTuRrg1Ky8S2jN51jSV4oiog8jPSWqzq/K2lKQ8=
 			</data>
 		</dict>
 		<key>Headers/OmnideskSDK.h</key>
@@ -89,84 +89,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WDOQdNBm0d5bhrZbifZU3pvrnMV4tWEgkdstSkzQKv0=
+			Co18R7QgavF+4hyZNkn6blrAyhNWZj5uy8eYZu/DE3I=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kfiG4pkZyCuEiuHODGuoEwv1QXABuGFk7qDI/OZ/gM=
+			v/6Jh4UHeUDgEu9qLZJBMdMbcDdUrt1igq6DDkxUUzA=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			41o0M9t6mYPb5RujVQWYo36XF+XIKcHXrOu+g0q79es=
+			Q7xrPhktCFNWX6NTMXAmzD27qxVfamDQ7300llYx9KY=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WDOQdNBm0d5bhrZbifZU3pvrnMV4tWEgkdstSkzQKv0=
+			Co18R7QgavF+4hyZNkn6blrAyhNWZj5uy8eYZu/DE3I=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kfiG4pkZyCuEiuHODGuoEwv1QXABuGFk7qDI/OZ/gM=
+			v/6Jh4UHeUDgEu9qLZJBMdMbcDdUrt1igq6DDkxUUzA=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			41o0M9t6mYPb5RujVQWYo36XF+XIKcHXrOu+g0q79es=
+			Q7xrPhktCFNWX6NTMXAmzD27qxVfamDQ7300llYx9KY=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YWBTraZ+JXOkbKfu4yba7t7qTzeCirNQak/oqG6tXsI=
+			Y6YNd1Nln+lvYt1vQPwNaubaIM1DCGkTtW7nPKqZQ+k=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C6NFThiNwlzY/wvbcB/oAJlCcXTfwSaQMI90s6A50y4=
+			q1SMr9QDbyvDiH/P8Tymi2ndKYUFIo6v1tJvjak8I4A=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x17Ed6GCnX2WJp90yIPzTqf8TORtkXd3cTtMKBqnVkc=
+			U0j8cfVwLrEw+hxzMqzBFnXMWG3exTNVAiEIsyx6Z5I=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YWBTraZ+JXOkbKfu4yba7t7qTzeCirNQak/oqG6tXsI=
+			Y6YNd1Nln+lvYt1vQPwNaubaIM1DCGkTtW7nPKqZQ+k=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C6NFThiNwlzY/wvbcB/oAJlCcXTfwSaQMI90s6A50y4=
+			q1SMr9QDbyvDiH/P8Tymi2ndKYUFIo6v1tJvjak8I4A=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x17Ed6GCnX2WJp90yIPzTqf8TORtkXd3cTtMKBqnVkc=
+			U0j8cfVwLrEw+hxzMqzBFnXMWG3exTNVAiEIsyx6Z5I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
