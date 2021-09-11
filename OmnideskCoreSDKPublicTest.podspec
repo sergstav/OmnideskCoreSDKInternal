@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "OmnideskCoreSDKPublicTest"
-    s.version      = "0.0.5"
+    s.version      = "0.0.6"
     s.summary      = "OmnideskCoreSDKPublicTest #{s.version.to_s}"
     s.homepage     = "https://omnidesk.ru"
     s.license      = {
