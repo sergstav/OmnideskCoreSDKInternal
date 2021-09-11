@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OmnideskCoreSDK-Swift.h</key>
 		<data>
-		O+hBOZLO3dCI6EuVraxhZGlY30Y=
+		+R57jzF9qDt3kfEVqlVNE+BjEzg=
 		</data>
 		<key>Headers/OmnideskSDK.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lMnvSqZXjWFqqsZKHXfzWYOs3y8=
+		9emg3xZ10nyK6uYdcJHdfmK/UKc=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		eLwvZrFRLv7P1dpPGvpH2tFTklY=
+		yjMgqol0x6B7mI+62gEchef+vc4=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		uom4pgyqqh486sx25pTgtrL6BTc=
+		ImnTSQSFOcAqxoU5+zdQC9Bepss=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		W460dDwWnGnTinlr7NjN4pEcoXo=
+		WSUjET65rnNooYSdMD/2kjVTGIg=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		eLwvZrFRLv7P1dpPGvpH2tFTklY=
+		yjMgqol0x6B7mI+62gEchef+vc4=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		uom4pgyqqh486sx25pTgtrL6BTc=
+		ImnTSQSFOcAqxoU5+zdQC9Bepss=
 		</data>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		W460dDwWnGnTinlr7NjN4pEcoXo=
+		WSUjET65rnNooYSdMD/2kjVTGIg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2abC/HoS4BqkRy8H3n7P84AEzqEm7NS/Z23/FPRQaqs=
+			KDqZYhwhGRdVU5XWLTZsCcr0ef8rzOVwVyNJUTYxfkA=
 			</data>
 		</dict>
 		<key>Headers/OmnideskSDK.h</key>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1NneNuvQfbzbVEdw4vNzVscLfb8Jl9eUNQkjWUNzkAI=
+			tqRAaDj4keoN+R+4HI/nGtS+b9IfR41kgSTseHLxYQg=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pr8S3YsJa4soYmy6V/pT72kJaxRfYHbqYt6tI7Kb0eg=
+			0xUn+ptYP3kNi2hT6zRIa9rGNjlcEmKzQG1leTpkSZQ=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qh4fymcxQMzPeqsScS4fo01A1S+gWI/8mkpnq4VYVss=
+			qq5AWOeFCUY1rCaptmTomTUn8fCFEqjs5wzqsIhq1+0=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1NneNuvQfbzbVEdw4vNzVscLfb8Jl9eUNQkjWUNzkAI=
+			tqRAaDj4keoN+R+4HI/nGtS+b9IfR41kgSTseHLxYQg=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pr8S3YsJa4soYmy6V/pT72kJaxRfYHbqYt6tI7Kb0eg=
+			0xUn+ptYP3kNi2hT6zRIa9rGNjlcEmKzQG1leTpkSZQ=
 			</data>
 		</dict>
 		<key>Modules/OmnideskCoreSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qh4fymcxQMzPeqsScS4fo01A1S+gWI/8mkpnq4VYVss=
+			qq5AWOeFCUY1rCaptmTomTUn8fCFEqjs5wzqsIhq1+0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
